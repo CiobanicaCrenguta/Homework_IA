@@ -4,12 +4,17 @@
 
 Here’s a quick overview of the project files:
 
-├── bfs_tsp.py         # BFS algorithm implementation
-├── ucs_tsp.py         # UCS algorithm implementation
-├── a_star_tsp.py      # A* algorithm implementation
-├── graph_utils.py     # Utility functions for graph plotting
-├── main.py            # Main script to run the TSP solvers
-├── README.md          # This file
+bfs_tsp.py         # BFS algorithm implementation
+
+ucs_tsp.py         # UCS algorithm implementation
+
+a_star_tsp.py      # A* algorithm implementation
+
+ graph_utils.py     # Utility functions for graph plotting
+ 
+ main.py            # Main script to run the TSP solvers
+ 
+README.md          # This file
 
 ## Prerequisites
 
